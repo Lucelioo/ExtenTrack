@@ -1,0 +1,2 @@
+-- Disable email confirmation for signup to allow immediate login
+-- This will be handled by updating the auth settings

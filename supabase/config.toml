@@ -1,0 +1,10 @@
+project_id = "ghvkotpvgugrtleikhlc"
+
+[functions.create-admin]
+verify_jwt = false
+
+[functions.create-coordinator]
+verify_jwt = true
+
+[functions.get-student-report]
+verify_jwt = false
